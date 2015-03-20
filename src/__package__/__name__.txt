@@ -1,0 +1,3 @@
+
+__package__.__name__ = foo
+
