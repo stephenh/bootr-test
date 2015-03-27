@@ -1,2 +1,2 @@
-package: foo
-name: bar
+package: The package name for your project.
+name: The name class name for the project.
